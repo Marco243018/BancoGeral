@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c0jlZzChZeXzN6vl8fCg/xRyQ98yOPPiCev3luPd58p621uJtPP2xHqlCaQ0CU0SubiYRr55Ya+Np85hhBE06A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinic\\Downloads\\AppBanco P2\\AppBanco.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
