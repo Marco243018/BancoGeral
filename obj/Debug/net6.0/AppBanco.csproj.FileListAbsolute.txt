@@ -1,0 +1,177 @@
+c:/Trilhas/ligtecprog/turma b/Projeto Banco/Grupo 7/AppBanco/bin/Debug/net6.0/AppBanco.exe
+c:/Trilhas/ligtecprog/turma b/Projeto Banco/Grupo 7/AppBanco/bin/Debug/net6.0/AppBanco.deps.json
+c:/Trilhas/ligtecprog/turma b/Projeto Banco/Grupo 7/AppBanco/bin/Debug/net6.0/AppBanco.runtimeconfig.json
+c:/Trilhas/ligtecprog/turma b/Projeto Banco/Grupo 7/AppBanco/bin/Debug/net6.0/AppBanco.dll
+c:/Trilhas/ligtecprog/turma b/Projeto Banco/Grupo 7/AppBanco/bin/Debug/net6.0/AppBanco.pdb
+c:/Trilhas/ligtecprog/turma b/Projeto Banco/Grupo 7/AppBanco/obj/Debug/net6.0/AppBanco.csproj.AssemblyReference.cache
+c:/Trilhas/ligtecprog/turma b/Projeto Banco/Grupo 7/AppBanco/obj/Debug/net6.0/AppBanco.GeneratedMSBuildEditorConfig.editorconfig
+c:/Trilhas/ligtecprog/turma b/Projeto Banco/Grupo 7/AppBanco/obj/Debug/net6.0/AppBanco.AssemblyInfoInputs.cache
+c:/Trilhas/ligtecprog/turma b/Projeto Banco/Grupo 7/AppBanco/obj/Debug/net6.0/AppBanco.AssemblyInfo.cs
+c:/Trilhas/ligtecprog/turma b/Projeto Banco/Grupo 7/AppBanco/obj/Debug/net6.0/AppBanco.csproj.CoreCompileInputs.cache
+c:/Trilhas/ligtecprog/turma b/Projeto Banco/Grupo 7/AppBanco/obj/Debug/net6.0/AppBanco.dll
+c:/Trilhas/ligtecprog/turma b/Projeto Banco/Grupo 7/AppBanco/obj/Debug/net6.0/refint/AppBanco.dll
+c:/Trilhas/ligtecprog/turma b/Projeto Banco/Grupo 7/AppBanco/obj/Debug/net6.0/AppBanco.pdb
+c:/Trilhas/ligtecprog/turma b/Projeto Banco/Grupo 7/AppBanco/obj/Debug/net6.0/AppBanco.genruntimeconfig.cache
+c:/Trilhas/ligtecprog/turma b/Projeto Banco/Grupo 7/AppBanco/obj/Debug/net6.0/ref/AppBanco.dll
+D:/AppBanco/bin/Debug/net6.0/AppBanco.exe
+D:/AppBanco/bin/Debug/net6.0/AppBanco.deps.json
+D:/AppBanco/bin/Debug/net6.0/AppBanco.runtimeconfig.json
+D:/AppBanco/bin/Debug/net6.0/AppBanco.dll
+D:/AppBanco/bin/Debug/net6.0/AppBanco.pdb
+D:/AppBanco/obj/Debug/net6.0/AppBanco.csproj.AssemblyReference.cache
+D:/AppBanco/obj/Debug/net6.0/AppBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:/AppBanco/obj/Debug/net6.0/AppBanco.AssemblyInfoInputs.cache
+D:/AppBanco/obj/Debug/net6.0/AppBanco.AssemblyInfo.cs
+D:/AppBanco/obj/Debug/net6.0/AppBanco.csproj.CoreCompileInputs.cache
+D:/AppBanco/obj/Debug/net6.0/AppBanco.dll
+D:/AppBanco/obj/Debug/net6.0/refint/AppBanco.dll
+D:/AppBanco/obj/Debug/net6.0/AppBanco.pdb
+D:/AppBanco/obj/Debug/net6.0/AppBanco.genruntimeconfig.cache
+D:/AppBanco/obj/Debug/net6.0/ref/AppBanco.dll
+/home/luck/Desktop/AppBanco/bin/Debug/net6.0/AppBanco
+/home/luck/Desktop/AppBanco/bin/Debug/net6.0/AppBanco.deps.json
+/home/luck/Desktop/AppBanco/bin/Debug/net6.0/AppBanco.runtimeconfig.json
+/home/luck/Desktop/AppBanco/bin/Debug/net6.0/AppBanco.dll
+/home/luck/Desktop/AppBanco/bin/Debug/net6.0/ref/AppBanco.dll
+/home/luck/Desktop/AppBanco/bin/Debug/net6.0/AppBanco.pdb
+/home/luck/Desktop/AppBanco/obj/Debug/net6.0/AppBanco.csproj.AssemblyReference.cache
+/home/luck/Desktop/AppBanco/obj/Debug/net6.0/AppBanco.GeneratedMSBuildEditorConfig.editorconfig
+/home/luck/Desktop/AppBanco/obj/Debug/net6.0/AppBanco.AssemblyInfoInputs.cache
+/home/luck/Desktop/AppBanco/obj/Debug/net6.0/AppBanco.AssemblyInfo.cs
+/home/luck/Desktop/AppBanco/obj/Debug/net6.0/AppBanco.csproj.CoreCompileInputs.cache
+/home/luck/Desktop/AppBanco/obj/Debug/net6.0/AppBanco.dll
+/home/luck/Desktop/AppBanco/obj/Debug/net6.0/ref/AppBanco.dll
+/home/luck/Desktop/AppBanco/obj/Debug/net6.0/AppBanco.pdb
+/home/luck/Desktop/AppBanco/obj/Debug/net6.0/AppBanco.genruntimeconfig.cache
+C:/Users/Aluno/Desktop/AppBanco/bin/Debug/net6.0/AppBanco.exe
+C:/Users/Aluno/Desktop/AppBanco/bin/Debug/net6.0/AppBanco.deps.json
+C:/Users/Aluno/Desktop/AppBanco/bin/Debug/net6.0/AppBanco.runtimeconfig.json
+C:/Users/Aluno/Desktop/AppBanco/bin/Debug/net6.0/AppBanco.dll
+C:/Users/Aluno/Desktop/AppBanco/bin/Debug/net6.0/AppBanco.pdb
+C:/Users/Aluno/Desktop/AppBanco/obj/Debug/net6.0/AppBanco.csproj.AssemblyReference.cache
+C:/Users/Aluno/Desktop/AppBanco/obj/Debug/net6.0/AppBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Aluno/Desktop/AppBanco/obj/Debug/net6.0/AppBanco.AssemblyInfoInputs.cache
+C:/Users/Aluno/Desktop/AppBanco/obj/Debug/net6.0/AppBanco.AssemblyInfo.cs
+C:/Users/Aluno/Desktop/AppBanco/obj/Debug/net6.0/AppBanco.csproj.CoreCompileInputs.cache
+C:/Users/Aluno/Desktop/AppBanco/obj/Debug/net6.0/AppBanco.dll
+C:/Users/Aluno/Desktop/AppBanco/obj/Debug/net6.0/refint/AppBanco.dll
+C:/Users/Aluno/Desktop/AppBanco/obj/Debug/net6.0/AppBanco.pdb
+C:/Users/Aluno/Desktop/AppBanco/obj/Debug/net6.0/AppBanco.genruntimeconfig.cache
+C:/Users/Aluno/Desktop/AppBanco/obj/Debug/net6.0/ref/AppBanco.dll
+/run/media/luck/Ventoy/AppBanco/bin/Debug/net6.0/AppBanco
+/run/media/luck/Ventoy/AppBanco/bin/Debug/net6.0/AppBanco.deps.json
+/run/media/luck/Ventoy/AppBanco/bin/Debug/net6.0/AppBanco.runtimeconfig.json
+/run/media/luck/Ventoy/AppBanco/bin/Debug/net6.0/AppBanco.dll
+/run/media/luck/Ventoy/AppBanco/bin/Debug/net6.0/ref/AppBanco.dll
+/run/media/luck/Ventoy/AppBanco/bin/Debug/net6.0/AppBanco.pdb
+/run/media/luck/Ventoy/AppBanco/obj/Debug/net6.0/AppBanco.csproj.AssemblyReference.cache
+/run/media/luck/Ventoy/AppBanco/obj/Debug/net6.0/AppBanco.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/luck/Ventoy/AppBanco/obj/Debug/net6.0/AppBanco.AssemblyInfoInputs.cache
+/run/media/luck/Ventoy/AppBanco/obj/Debug/net6.0/AppBanco.AssemblyInfo.cs
+/run/media/luck/Ventoy/AppBanco/obj/Debug/net6.0/AppBanco.csproj.CoreCompileInputs.cache
+/run/media/luck/Ventoy/AppBanco/obj/Debug/net6.0/AppBanco.dll
+/run/media/luck/Ventoy/AppBanco/obj/Debug/net6.0/ref/AppBanco.dll
+/run/media/luck/Ventoy/AppBanco/obj/Debug/net6.0/AppBanco.pdb
+/run/media/luck/Ventoy/AppBanco/obj/Debug/net6.0/AppBanco.genruntimeconfig.cache
+/home/luck/Desktop/AppBanco P2/bin/Debug/net6.0/AppBanco
+/home/luck/Desktop/AppBanco P2/bin/Debug/net6.0/AppBanco.deps.json
+/home/luck/Desktop/AppBanco P2/bin/Debug/net6.0/AppBanco.runtimeconfig.json
+/home/luck/Desktop/AppBanco P2/bin/Debug/net6.0/AppBanco.dll
+/home/luck/Desktop/AppBanco P2/bin/Debug/net6.0/ref/AppBanco.dll
+/home/luck/Desktop/AppBanco P2/bin/Debug/net6.0/AppBanco.pdb
+/home/luck/Desktop/AppBanco P2/obj/Debug/net6.0/AppBanco.csproj.AssemblyReference.cache
+/home/luck/Desktop/AppBanco P2/obj/Debug/net6.0/AppBanco.GeneratedMSBuildEditorConfig.editorconfig
+/home/luck/Desktop/AppBanco P2/obj/Debug/net6.0/AppBanco.AssemblyInfoInputs.cache
+/home/luck/Desktop/AppBanco P2/obj/Debug/net6.0/AppBanco.AssemblyInfo.cs
+/home/luck/Desktop/AppBanco P2/obj/Debug/net6.0/AppBanco.csproj.CoreCompileInputs.cache
+/home/luck/Desktop/AppBanco P2/obj/Debug/net6.0/AppBanco.dll
+/home/luck/Desktop/AppBanco P2/obj/Debug/net6.0/ref/AppBanco.dll
+/home/luck/Desktop/AppBanco P2/obj/Debug/net6.0/AppBanco.pdb
+/home/luck/Desktop/AppBanco P2/obj/Debug/net6.0/AppBanco.genruntimeconfig.cache
+C:/Users/vinic/Downloads/AppBanco P2/bin/Debug/net6.0/AppBanco.exe
+C:/Users/vinic/Downloads/AppBanco P2/bin/Debug/net6.0/AppBanco.deps.json
+C:/Users/vinic/Downloads/AppBanco P2/bin/Debug/net6.0/AppBanco.runtimeconfig.json
+C:/Users/vinic/Downloads/AppBanco P2/bin/Debug/net6.0/AppBanco.dll
+C:/Users/vinic/Downloads/AppBanco P2/bin/Debug/net6.0/AppBanco.pdb
+C:/Users/vinic/Downloads/AppBanco P2/obj/Debug/net6.0/AppBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/vinic/Downloads/AppBanco P2/obj/Debug/net6.0/AppBanco.AssemblyInfoInputs.cache
+C:/Users/vinic/Downloads/AppBanco P2/obj/Debug/net6.0/AppBanco.AssemblyInfo.cs
+C:/Users/vinic/Downloads/AppBanco P2/obj/Debug/net6.0/AppBanco.csproj.CoreCompileInputs.cache
+C:/Users/vinic/Downloads/AppBanco P2/obj/Debug/net6.0/AppBanco.dll
+C:/Users/vinic/Downloads/AppBanco P2/obj/Debug/net6.0/refint/AppBanco.dll
+C:/Users/vinic/Downloads/AppBanco P2/obj/Debug/net6.0/AppBanco.pdb
+C:/Users/vinic/Downloads/AppBanco P2/obj/Debug/net6.0/AppBanco.genruntimeconfig.cache
+C:/Users/vinic/Downloads/AppBanco P2/obj/Debug/net6.0/ref/AppBanco.dll
+/home/luck/Downloads/AppBanco P2/bin/Debug/net6.0/AppBanco
+/home/luck/Downloads/AppBanco P2/bin/Debug/net6.0/AppBanco.deps.json
+/home/luck/Downloads/AppBanco P2/bin/Debug/net6.0/AppBanco.runtimeconfig.json
+/home/luck/Downloads/AppBanco P2/bin/Debug/net6.0/AppBanco.dll
+/home/luck/Downloads/AppBanco P2/bin/Debug/net6.0/ref/AppBanco.dll
+/home/luck/Downloads/AppBanco P2/bin/Debug/net6.0/AppBanco.pdb
+/home/luck/Downloads/AppBanco P2/obj/Debug/net6.0/AppBanco.csproj.AssemblyReference.cache
+/home/luck/Downloads/AppBanco P2/obj/Debug/net6.0/AppBanco.GeneratedMSBuildEditorConfig.editorconfig
+/home/luck/Downloads/AppBanco P2/obj/Debug/net6.0/AppBanco.AssemblyInfoInputs.cache
+/home/luck/Downloads/AppBanco P2/obj/Debug/net6.0/AppBanco.AssemblyInfo.cs
+/home/luck/Downloads/AppBanco P2/obj/Debug/net6.0/AppBanco.csproj.CoreCompileInputs.cache
+/home/luck/Downloads/AppBanco P2/obj/Debug/net6.0/AppBanco.dll
+/home/luck/Downloads/AppBanco P2/obj/Debug/net6.0/ref/AppBanco.dll
+/home/luck/Downloads/AppBanco P2/obj/Debug/net6.0/AppBanco.pdb
+/home/luck/Downloads/AppBanco P2/obj/Debug/net6.0/AppBanco.genruntimeconfig.cache
+/home/luck/Downloads/AppBancoP2/bin/Debug/net6.0/AppBanco
+/home/luck/Downloads/AppBancoP2/bin/Debug/net6.0/AppBanco.deps.json
+/home/luck/Downloads/AppBancoP2/bin/Debug/net6.0/AppBanco.runtimeconfig.json
+/home/luck/Downloads/AppBancoP2/bin/Debug/net6.0/AppBanco.dll
+/home/luck/Downloads/AppBancoP2/bin/Debug/net6.0/ref/AppBanco.dll
+/home/luck/Downloads/AppBancoP2/bin/Debug/net6.0/AppBanco.pdb
+/home/luck/Downloads/AppBancoP2/obj/Debug/net6.0/AppBanco.csproj.AssemblyReference.cache
+/home/luck/Downloads/AppBancoP2/obj/Debug/net6.0/AppBanco.GeneratedMSBuildEditorConfig.editorconfig
+/home/luck/Downloads/AppBancoP2/obj/Debug/net6.0/AppBanco.AssemblyInfoInputs.cache
+/home/luck/Downloads/AppBancoP2/obj/Debug/net6.0/AppBanco.AssemblyInfo.cs
+/home/luck/Downloads/AppBancoP2/obj/Debug/net6.0/AppBanco.csproj.CoreCompileInputs.cache
+/home/luck/Downloads/AppBancoP2/obj/Debug/net6.0/AppBanco.dll
+/home/luck/Downloads/AppBancoP2/obj/Debug/net6.0/ref/AppBanco.dll
+/home/luck/Downloads/AppBancoP2/obj/Debug/net6.0/AppBanco.pdb
+/home/luck/Downloads/AppBancoP2/obj/Debug/net6.0/AppBanco.genruntimeconfig.cache
+C:/Users/vinic/Downloads/AppBancoP2/bin/Debug/net6.0/AppBanco.exe
+C:/Users/vinic/Downloads/AppBancoP2/bin/Debug/net6.0/AppBanco.deps.json
+C:/Users/vinic/Downloads/AppBancoP2/bin/Debug/net6.0/AppBanco.runtimeconfig.json
+C:/Users/vinic/Downloads/AppBancoP2/bin/Debug/net6.0/AppBanco.dll
+C:/Users/vinic/Downloads/AppBancoP2/bin/Debug/net6.0/AppBanco.pdb
+C:/Users/vinic/Downloads/AppBancoP2/obj/Debug/net6.0/AppBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/vinic/Downloads/AppBancoP2/obj/Debug/net6.0/AppBanco.AssemblyInfoInputs.cache
+C:/Users/vinic/Downloads/AppBancoP2/obj/Debug/net6.0/AppBanco.AssemblyInfo.cs
+C:/Users/vinic/Downloads/AppBancoP2/obj/Debug/net6.0/AppBanco.csproj.CoreCompileInputs.cache
+C:/Users/vinic/Downloads/AppBancoP2/obj/Debug/net6.0/AppBanco.dll
+C:/Users/vinic/Downloads/AppBancoP2/obj/Debug/net6.0/refint/AppBanco.dll
+C:/Users/vinic/Downloads/AppBancoP2/obj/Debug/net6.0/AppBanco.pdb
+C:/Users/vinic/Downloads/AppBancoP2/obj/Debug/net6.0/AppBanco.genruntimeconfig.cache
+C:/Users/vinic/Downloads/AppBancoP2/obj/Debug/net6.0/ref/AppBanco.dll
+C:/Users/vinic/OneDrive/Área de Trabalho/AppBancoP2/bin/Debug/net6.0/AppBanco.exe
+C:/Users/vinic/OneDrive/Área de Trabalho/AppBancoP2/bin/Debug/net6.0/AppBanco.deps.json
+C:/Users/vinic/OneDrive/Área de Trabalho/AppBancoP2/bin/Debug/net6.0/AppBanco.runtimeconfig.json
+C:/Users/vinic/OneDrive/Área de Trabalho/AppBancoP2/bin/Debug/net6.0/AppBanco.dll
+C:/Users/vinic/OneDrive/Área de Trabalho/AppBancoP2/bin/Debug/net6.0/AppBanco.pdb
+C:/Users/vinic/OneDrive/Área de Trabalho/AppBancoP2/obj/Debug/net6.0/AppBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/vinic/OneDrive/Área de Trabalho/AppBancoP2/obj/Debug/net6.0/AppBanco.AssemblyInfoInputs.cache
+C:/Users/vinic/OneDrive/Área de Trabalho/AppBancoP2/obj/Debug/net6.0/AppBanco.AssemblyInfo.cs
+C:/Users/vinic/OneDrive/Área de Trabalho/AppBancoP2/obj/Debug/net6.0/AppBanco.csproj.CoreCompileInputs.cache
+C:/Users/vinic/OneDrive/Área de Trabalho/AppBancoP2/obj/Debug/net6.0/AppBanco.dll
+C:/Users/vinic/OneDrive/Área de Trabalho/AppBancoP2/obj/Debug/net6.0/refint/AppBanco.dll
+C:/Users/vinic/OneDrive/Área de Trabalho/AppBancoP2/obj/Debug/net6.0/AppBanco.pdb
+C:/Users/vinic/OneDrive/Área de Trabalho/AppBancoP2/obj/Debug/net6.0/AppBanco.genruntimeconfig.cache
+C:/Users/vinic/OneDrive/Área de Trabalho/AppBancoP2/obj/Debug/net6.0/ref/AppBanco.dll
+/home/luck/Downloads/BancoVaVa/obj/Debug/net6.0/AppBanco.csproj.AssemblyReference.cache
+/home/luck/Downloads/BancoVaVa/obj/Debug/net6.0/AppBanco.GeneratedMSBuildEditorConfig.editorconfig
+/home/luck/Downloads/BancoVaVa/obj/Debug/net6.0/AppBanco.AssemblyInfoInputs.cache
+/home/luck/Downloads/BancoVaVa/obj/Debug/net6.0/AppBanco.AssemblyInfo.cs
+/home/luck/Downloads/BancoVaVa/obj/Debug/net6.0/AppBanco.csproj.CoreCompileInputs.cache
+/home/luck/Downloads/BancoVaVa/obj/Debug/net6.0/AppBanco.dll
+/home/luck/Downloads/BancoVaVa/obj/Debug/net6.0/ref/AppBanco.dll
+/home/luck/Downloads/BancoVaVa/obj/Debug/net6.0/AppBanco.pdb
+/home/luck/Downloads/BancoVaVa/bin/Debug/net6.0/AppBanco
+/home/luck/Downloads/BancoVaVa/bin/Debug/net6.0/AppBanco.deps.json
+/home/luck/Downloads/BancoVaVa/bin/Debug/net6.0/AppBanco.runtimeconfig.json
+/home/luck/Downloads/BancoVaVa/bin/Debug/net6.0/AppBanco.dll
+/home/luck/Downloads/BancoVaVa/bin/Debug/net6.0/ref/AppBanco.dll
+/home/luck/Downloads/BancoVaVa/bin/Debug/net6.0/AppBanco.pdb
+/home/luck/Downloads/BancoVaVa/obj/Debug/net6.0/AppBanco.genruntimeconfig.cache
