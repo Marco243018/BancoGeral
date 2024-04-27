@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/luck/Desktop/BancoGeral/AppBanco.csproj": {}
+    "/home/luck/Downloads/BancoGeral/AppBanco.csproj": {}
   },
   "projects": {
-    "/home/luck/Desktop/BancoGeral/AppBanco.csproj": {
+    "/home/luck/Downloads/BancoGeral/AppBanco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/luck/Desktop/BancoGeral/AppBanco.csproj",
+        "projectUniqueName": "/home/luck/Downloads/BancoGeral/AppBanco.csproj",
         "projectName": "AppBanco",
-        "projectPath": "/home/luck/Desktop/BancoGeral/AppBanco.csproj",
+        "projectPath": "/home/luck/Downloads/BancoGeral/AppBanco.csproj",
         "packagesPath": "/home/luck/.nuget/packages/",
-        "outputPath": "/home/luck/Desktop/BancoGeral/obj/",
+        "outputPath": "/home/luck/Downloads/BancoGeral/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/luck/.nuget/NuGet/NuGet.Config"
