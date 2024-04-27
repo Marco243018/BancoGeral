@@ -43,6 +43,12 @@
 								<Descricao>Pagamento Supermercado</Descricao>
 								<Valor>1000,00</Valor>
 							</Movimento2>
+							<Movimento3>
+								<Data>01/04/2024</Data>
+								<TipoMovimento>Debito</TipoMovimento>
+								<Descricao>Pagamento Aluguel</Descricao>
+								<Valor>2000,00</Valor>
+							</Movimento3>
 							<Movimento4>
 								<Data>02/04/2024</Data>
 								<TipoMovimento>Debito</TipoMovimento>

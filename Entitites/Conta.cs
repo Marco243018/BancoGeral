@@ -60,6 +60,7 @@ public class Conta
         Numero = RetornaTagXML(XMLConta, "Numero");
 
         string DadosCorrentista = RetornaTagXML(XMLConta, "Correntista");
+        string DadosMovimentos = RetornaTagXML(XMLConta,"Movimentos");
 
         correntista = new Correntista();
 
@@ -70,6 +71,19 @@ public class Conta
         correntista.Estado = RetornaTagXML(DadosCorrentista, "Estado");
         correntista.Cidade = RetornaTagXML(DadosCorrentista, "Cidade");
         correntista.Telefone = RetornaTagXML(DadosCorrentista, "Telefone");
+
+        int ContaMovimento = 1;
+        string XMLMovimento = RetornaTagXML(DadosMovimentos, "Movimento"+ContaMovimento);
+        while(XMLMovimento != "")
+        {
+            Movimento mov = new Movimento();
+            mov.CarregarMovimentoXML(XMLMovimento);
+
+            Addmovimento(mov);
+            ContaMovimento++;
+            XMLMovimento = RetornaTagXML(DadosMovimentos, "Movimento"+ContaMovimento);
+        }
+
         return "";
     }
     private string RetornaTagXML(string XML, string Tag)

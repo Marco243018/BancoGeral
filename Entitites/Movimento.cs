@@ -26,5 +26,51 @@ namespace AppBanco.Entitites
                              "Valor..............:" + Valor.ToString("F2") + "\n";
             return retorno;
         }
+        public string CarregarMovimentoXML(string XMLMovimento)
+        {
+            string DataMovimento = RetornaTagXML(XMLMovimento, "Data");
+            string sTipoMovimento = RetornaTagXML(XMLMovimento, "TipoMovimento");
+
+            Data = Convert.ToDateTime(DataMovimento);
+            if (sTipoMovimento == "Credito")
+            {
+                Tipo = Enums.TipoMovimento.Credito;
+            }
+            else
+            {
+                Tipo = Enums.TipoMovimento.Debito;
+            }
+            Descricao = RetornaTagXML(XMLMovimento, "Descricao");
+
+            Valor = double.Parse(RetornaTagXML(XMLMovimento, "Valor"));
+
+
+
+            return "";
+        }
+        private string RetornaTagXML(string XML, string Tag)
+        {
+            string Retorno = "";
+            if (XML != "")
+            {
+                int PI = XML.IndexOf("<" + Tag + ">");
+                if (PI > 0)
+                {
+                    PI += Tag.Length + 2;
+                    int PF = XML.IndexOf("</" + Tag + ">");
+                    int Comprimento = PF - PI;
+                    Retorno = XML.Substring(PI, Comprimento);
+                }
+                else
+                {
+                    Retorno = "";
+                }
+            }
+            else
+            {
+                Retorno = "";
+            }
+            return Retorno;
+        }
     }
 }
