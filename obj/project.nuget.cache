@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4BGfoJp3SsBxlZ1KNPAylfby952wrJhiIfkubQR+2XmkUw2ZjFk+FKDeD7LKeLnlSdKR+EkW7thFXSW51/Gnmg==",
+  "dgSpecHash": "FLj+QjOoOfbBsKsY0WrUQI4l74CSk9iJniGsJ6AaOxY+mS2I4VV4MG65ivzQ34NGdW6Sxt1Wd3ZDZXca8jk38Q==",
   "success": true,
-  "projectFilePath": "/home/luck/Downloads/BancoGeral/AppBanco.csproj",
+  "projectFilePath": "/home/luck/Desktop/BancoGeral/AppBanco.csproj",
   "expectedPackageFiles": [
     "/home/luck/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
   ],
