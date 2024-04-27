@@ -1,0 +1,75 @@
+<XML>
+	<Banco>
+		<BancoCadastro>
+			<Numero>001</Numero>
+			<NomeBanco>Manhuaçu-MG</NomeBanco>
+		</BancoCadastro>
+		<Agencias>
+			<Agencia1>
+				<AgenciaCadastro>
+					<Numero>0316-5</Numero>
+					<NomeAgencia>Manhuaçu-Centro</NomeAgencia>
+					<EnderecoAgencia>Pca. Coordovil Pinto Coelho, 156</EnderecoAgencia>
+					<EnderecoNumero>156</EnderecoNumero>
+					<Bairro>Centro</Bairro>
+					<Cidade>Manhuaçu</Cidade>
+					<Estado>MG</Estado>
+				</AgenciaCadastro>
+				<Contas>
+					<Conta1>
+						<Tipo>Corrente</Tipo>
+						<Numero>15.904-2</Numero>
+						<Saldo>1500.00</Saldo>
+						<Correntista>
+							<Nome>João da Silva Oliveira</Nome>
+							<CPF>123.098.134-99</CPF>
+							<Endereco>Rua da igreja</Endereco>
+							<Numero>10
+							</Numero>
+							<Estado>MG</Estado>
+							<Cidade>Manhuaçu</Cidade>
+							<Telefone>(33) 98810-1515</Telefone>
+						</Correntista>
+						<Movimentos>
+							<Movimento1>
+								<Data>01/04/2024</Data>
+								<TipoMovimento>Credito</TipoMovimento>
+								<Descricao>Depósito inicial</Descricao>
+								<Valor>5000,00</Valor>
+							</Movimento1>
+							<Movimento2>
+								<Data>01/04/2024</Data>
+								<TipoMovimento>Debito</TipoMovimento>
+								<Descricao>Pagamento Supermercado</Descricao>
+								<Valor>1000,00</Valor>
+							</Movimento2>
+							<Movimento3>
+								<Data>01/04/2024</Data>
+								<TipoMovimento>Debito</TipoMovimento>
+								<Descricao>Pagamento Aluguel</Descricao>
+								<Valor>2000,00</Valor>
+							</Movimento3>
+							<Movimento4>
+								<Data>02/04/2024</Data>
+								<TipoMovimento>Debito</TipoMovimento>
+								<Descricao>Plano de Saúde</Descricao>
+								<Valor>500,00</Valor>
+							</Movimento4>
+						</Movimentos>
+					</Conta1>
+				</Contas>
+			</Agencia1>
+			<Agencia2>
+				<AgenciaCadastro>
+					<Numero>0317-5</Numero>
+					<NomeAgencia>Manhumirim-Centro</NomeAgencia>
+					<EnderecoAgencia>Rua Principal</EnderecoAgencia>
+					<EnderecoNumero>10</EnderecoNumero>
+					<Bairro>Centro</Bairro>
+					<Cidade>Manhumirim</Cidade>
+					<Estado>MG</Estado>
+				</AgenciaCadastro>
+			</Agencia2>
+		</Agencias>
+	</Banco>
+</XML>
