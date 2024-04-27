@@ -22,6 +22,8 @@ namespace AppBanco.Entitites
             Retorno = Retorno + "Número......:" + Numero + "\n";
             Retorno = Retorno + "Banco.......:" + NomeBanco + "\n";
             Retorno = Retorno + "-----------------------------------\n";
+            Retorno = Retorno + "Agencias\n";
+            Retorno = Retorno + "-----------------------------------\n";
             foreach (Agencia ag in Agencias)
             {
                 Retorno = Retorno + "-----------------------------------\n";
@@ -77,10 +79,8 @@ namespace AppBanco.Entitites
                     DadosAgencia = RetornaTagXML(Agencias, "Agencia" + ContaAgencia);
 
                 }
-                /*                 Console.Clear();
-                                Console.WriteLine(CadastroBanco);
-                                Console.ReadKey(); */
-                //Retorno = "";
+
+                Retorno = "";
             }
             return Retorno;
         }
@@ -96,7 +96,9 @@ namespace AppBanco.Entitites
                     int PF = XML.IndexOf("</" + Tag + ">");
                     int Comprimento = PF - PI;
                     Retorno = XML.Substring(PI, Comprimento);
-                } else {
+                }
+                else
+                {
                     Retorno = "";
                 }
             }

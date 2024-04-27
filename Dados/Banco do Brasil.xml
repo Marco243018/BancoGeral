@@ -10,6 +10,7 @@
 					<Numero>0316-5</Numero>
 					<NomeAgencia>Manhuaçu-Centro</NomeAgencia>
 					<EnderecoAgencia>Pca. Coordovil Pinto Coelho, 156</EnderecoAgencia>
+					<EnderecoNumero>156</EnderecoNumero>
 					<Bairro>Centro</Bairro>
 					<Cidade>Manhuaçu</Cidade>
 					<Estado>MG</Estado>
@@ -56,7 +57,8 @@
 				<AgenciaCadastro>
 					<Numero>0317-5</Numero>
 					<NomeAgencia>Manhumirim-Centro</NomeAgencia>
-					<EnderecoAgencia>Rua Principal, 10</EnderecoAgencia>
+					<EnderecoAgencia>Rua Principal</EnderecoAgencia>
+					<EnderecoNumero>10</EnderecoNumero>
 					<Bairro>Centro</Bairro>
 					<Cidade>Manhumirim</Cidade>
 					<Estado>MG</Estado>
