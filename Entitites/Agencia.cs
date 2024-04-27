@@ -50,6 +50,24 @@ namespace AppBanco.Entitites
             Bairro = RetornaTagXML(CadastroAgencia, "Bairro");
             Cidade = RetornaTagXML(CadastroAgencia, "Cidade");
             Estado = RetornaTagXML(CadastroAgencia, "Estado");
+
+            string Contas = RetornaTagXML(XMLAgencia, "Contas");
+
+            string XMLContas = RetornaTagXML(XMLAgencia, "Contas");
+
+            int ContaConta = 1;
+            string DadosConta = RetornaTagXML(XMLContas, "Conta" + ContaConta);
+            while (DadosConta != "")
+            {
+                Conta Cont = new Conta();
+
+                Cont.CarregarContaXML(DadosConta);
+                
+                AddConta(Cont);
+
+                ContaConta++;
+                DadosConta = RetornaTagXML(XMLAgencia, "Conta" + ContaConta);
+            }
             return "";
         }
         private string RetornaTagXML(string XML, string Tag)
