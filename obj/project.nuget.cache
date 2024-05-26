@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cv/X5igpi4LUyNrWGvue76L8sCR/vizREoihQeduoAxsDz43p4sm6BKN8qjK5Wb7THoHrR+JBOdaIOl/6fHedg==",
+  "success": true,
+  "projectFilePath": "/home/luck/Downloads/BancoGeral-main/AppBanco.csproj",
+  "expectedPackageFiles": [
+    "/home/luck/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.30/microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
