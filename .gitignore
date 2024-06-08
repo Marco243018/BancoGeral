@@ -1,0 +1,5 @@
+AppBanco.csproj
+AppBanco.sln
+*.vscode
+*bin
+*obj
